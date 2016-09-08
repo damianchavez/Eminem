@@ -1,4 +1,5 @@
-        Marshall Mathers was born on 17 October 1972 in Saint Joseph, Missouri. He grew up without a father who after 
+#Childhood
+        <p>Marshall Mathers was born on 17 October 1972 in Saint Joseph, Missouri. He grew up without a father who after 
         given chances to stay in contact with Marshall still chose not to. His mother had a hard time keeping a job so 
         the two were always on the move to different states. This impacted Marshall greatly because he would transfer 
         schools a couple times a year so he never had close friends but he would get bullied for being the outcast of

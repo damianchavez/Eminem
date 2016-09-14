@@ -13,6 +13,7 @@ Fan Page
             <li>Favorite Basketball Team: Detroit Pistons</li>
             <li>Favorite Football Team: Pittsburgh Steelers</li>
         </ul>
+        <Strong>Facts</Strong> 
         <ul>
             <li>Eminem is left handed</li>
             <li>He wanted to be a comic book artist when he was young</li>

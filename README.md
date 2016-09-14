@@ -1,21 +1,21 @@
 # Eminem
 Fan Page
 <Strong>Eminem's Favorites</Strong>
-        <li>
-            <ul>Hobbies and interests: Writing, Rapping, Listening to music, football, and watching movies</ul>
-            <ul>Favorite Color: Light Blue</ul>
-            <ul>Favorite Food: Fast Food (Taco Bell and Wendy's)</ul>
-            <ul>Favorite Books: Comic Books</ul>
-            <ul>Favorite Music: Hip Hop</ul>
-            <ul>Favorite Rappers: Tupac Shakur, Jay-z, Dr. Dre</ul>
-            <ul>Favorite Movie: Scarface (1983)</ul>
-            <ul>Favorite Sports: Basketball, Football</ul>
-            <ul>Favorite Basketball Team: Detroit Pistons</ul>
-            <ul>Favorite Football Team: Pittsburgh Steelers</ul>
-        </li>
-        <li>
-            <ul>Eminem is left handed</ul>
-            <ul>He wanted to be a comic book artist when he was young</ul>
-            <ul>Cuts his own hair</ul>
-            <ul>Quit school in 9th grade.</ul>
-        </li>
+        <ul>
+            <li>Hobbies and interests: Writing, Rapping, Listening to music, football, and watching movies</li>
+            <li>Favorite Color: Light Blue</li>
+            <li>Favorite Food: Fast Food (Taco Bell and Wendy's)</li>
+            <li>Favorite Books: Comic Books</li>
+            <li>Favorite Music: Hip Hop</li>
+            <li>Favorite Rappers: Tupac Shakur, Jay-z, Dr. Dre</li>
+            <li>Favorite Movie: Scarface (1983)</li>
+            <li>Favorite Sports: Basketball, Football</li>
+            <li>Favorite Basketball Team: Detroit Pistons</li>
+            <li>Favorite Football Team: Pittsburgh Steelers</li>
+        </ul>
+        <ul>
+            <li>Eminem is left handed</li>
+            <li>He wanted to be a comic book artist when he was young</li>
+            <li>Cuts his own hair</li>
+            <li>Quit school in 9th grade.</li>
+        </ul>

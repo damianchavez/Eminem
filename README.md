@@ -1,4 +1,40 @@
 # Marshall Mathers (Eminem)
 <strong>Fan Page</strong>
+h2 {
+    color: #00FFCD
+}
+* {
+    background-color: #188E0F
+}
+* {
+    color: #fff
+}
+img {
+    text-align: center
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
 
-<p>Marshall Mathersis a well known fair skinned rapper. His skin tone actually played a big part in his life because he was not hired by anyone since he was white so most believed he wouldn't do well rapping. He was at the point in his life where he was giving up because he could no longer achieve his goal when Dr. Dre had heard about him and saw potential in him so he helped him out since other record labels and musicians didn't think he wasn't good enough to work with. Eventually Marshall Mathers made a name for himself and is now popularly known as Eminem. I find his backstory to be very interesting along with most of his music so thats why I decided to make a fan page on him. His music inspires me to work hard since he does a good job of telling how the real world is sometimes and how tough it could be so you just got to continue and give it your best.</p>
+li {
+    float: left;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+a:hover:not(.active) {
+    background-color: #111;
+}
+
+.active {
+background-color:#4CAF50;
+}

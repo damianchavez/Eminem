@@ -2,7 +2,7 @@ h2 {
     color: #00FFCD
 }
 * {
-    background-color: #188E0F
+    background-color: #188E0F;
 }
 * {
     color: #fff
@@ -12,10 +12,10 @@ img {
 }
 ul {
     list-style-type: none;
-    margin: 0;
-    padding: 0;
+    margin: 5px;
+    padding: 5px;
     overflow: hidden;
-    background-color: #333;
+    background-color: #188E0F;
 }
 
 li {

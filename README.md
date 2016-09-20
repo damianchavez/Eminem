@@ -8,6 +8,7 @@
         <link rel="stylesheet" type="text/css" href="main.css">
     </head>
 <body>
+<h1>Eminem</h1>
 <ul>
   <li><a class="active" href="#home">Home</a></li>
   <li><a href="#news">Childhood</a></li>

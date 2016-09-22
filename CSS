@@ -4,7 +4,7 @@ h2 {
     color: #00FFCD
 }
 * {
-    background-color: #188E0F
+    background-color: #333;
 }
 * {
     color: #fff
@@ -37,4 +37,12 @@ a:hover:not(.active) {
 
 .active {
 background-color:#4CAF50;
+}
+h1 {
+    text-align: center;
+    color: #F8F9FA;
+    background-color: #2F5FDE;
+}
+div {
+    background-color: #1A39D5;
 }

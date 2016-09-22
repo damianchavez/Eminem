@@ -4,7 +4,7 @@ h2 {
     color: #00FFCD
 }
 * {
-    background-color: #333;
+    background-color: #188E0F
 }
 * {
     color: #fff
@@ -38,13 +38,6 @@ a:hover:not(.active) {
 .active {
 background-color:#4CAF50;
 }
-h1 {
-    text-align: center;
-    color: #F8F9FA;
-    background-color: #2F5FDE;
-}
 p {
-    background-color: #1A39D5;
-    margin: 10px;
-    padding: 10px;
+    font-family: 'Dosis', sans-serif;
 }

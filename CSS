@@ -43,6 +43,8 @@ h1 {
     color: #F8F9FA;
     background-color: #2F5FDE;
 }
-div {
+p {
     background-color: #1A39D5;
+    margin: 10px;
+    padding: 10px;
 }

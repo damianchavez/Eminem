@@ -21,6 +21,7 @@
         <li><a href="#childhood">Childhood</a></li>
         <li><a href="#favorites">Favorites</a></li>
     </ul>    
+    <!-- Bootstrap not working ask Mr. Winn -->
     <div class="container">
         <div class="row"> 
             <div class= "col-md-6">
@@ -34,6 +35,6 @@
             </div>
         </div>
     </div>    
-        <div class="footer">
+    <div class="footer">
     </div>
 </body>

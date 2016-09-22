@@ -1,11 +1,11 @@
 h2 {
-    color: #00FFCD
+    color: #00FFCD;
 }
 * {
     background-color: #333;
 }
 * {
-    color: #fff
+    color: #fff;
 }
 img {
     text-align: center
@@ -38,11 +38,13 @@ background-color:#4CAF50;
 }
 h1 {
     text-align: center;
-    color: #F8F9FA;
-    background-color: #2F5FDE;
+    color:  #005ce6;
+    background-color: #ffff00;
 }
 p {
     background-color: #1A39D5;
     margin: 10px;
     padding: 10px;
+    font-family: 'Dosis', sans-serif;
 }
+

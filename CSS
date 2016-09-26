@@ -28,7 +28,7 @@ a:hover:not(.active) {
 }
 
 .active {
-background-color:#4CAF50;
+background-color:#FBFF00;
 }
 h1 {
     text-align: center;
@@ -42,3 +42,4 @@ p {
     font-family: 'Dosis', sans-serif;
     border: 10px solid #333;
 }
+

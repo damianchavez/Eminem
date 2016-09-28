@@ -1,26 +1,43 @@
 <!DOCTYPE html>
 <html> 
-    <head>
-        <link rel="stylesheet" type="text/css" href="main.css">
-        <style>
-        <!-- Latest compiled and minified CSS -->
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+<head>
+    <link rel="stylesheet" type="text/css" href="main.css">
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
 
-        <!-- Optional theme -->
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
 
-        <!-- Latest compiled and minified JavaScript -->
-        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
-        </style>
-        <link href="https://fonts.googleapis.com/css?family=dosis" rel="stylesheet">
-    </head>
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+    <link href="https://fonts.googleapis.com/css?family=dosis" rel="stylesheet">
+</head>
 <body>
-<h1>Eminem</h1>
-<ul>
-  <li><a href="#home">Home</a></li>
-  <li><a class="active" href="#news">Childhood</a></li>
-  <li><a href="#contact">Favorites</a></li>
-</ul>    
-<p>Marshall Mathers is a well known fair skinned rapper. His skin tone actually played a big part in his life because he was not hired by anyone since he was white so most believed he wouldn't do well rapping. He was at the point in his life where he was giving up because he could no longer achieve his goal when Dr. Dre had heard about him and saw potential in him so he helped him out since other record labels and musicians didn't think he wasn't good enough to work with. Eventually Marshall Mathers made a name for himself and is now popularly known as Eminem. I find his backstory to be very interesting along with most of his music so thats why I decided to make a fan page on him. His music inspires me to work hard since he does a good job of telling how the real world is sometimes and how tough it could be so you just got to continue and give it your best.</p>
+    <ul>
+        <li><a href="#home">Home</a></li>
+        <li><a class="active"   href="#news">Childhood</a></li>
+        <li><a href="#contact">Favorites</a></li>
+    </ul>    
+    <h1>Eminem</h1>
+    <Strong>Eminem's Favorites</Strong>
+        <ul>
+            <li>Hobbies and interests: Writing, Rapping, Listening to music, football, and watching movies</li>
+            <li>Favorite Color: Light Blue</li>
+            <li>Favorite Food: Fast Food (Taco Bell and Wendy's)</li>
+            <li>Favorite Books: Comic Books</li>
+            <li>Favorite Music: Hip Hop</li>
+            <li>Favorite Rappers: Tupac Shakur, Jay-z, Dr. Dre</li>
+            <li>Favorite Movie: Scarface (1983)</li>
+            <li>Favorite Sports: Basketball, Football</li>
+            <li>Favorite Basketball Team: Detroit Pistons</li>
+            <li>Favorite Football Team: Pittsburgh Steelers</li>
+        </ul>
+        <Strong>Facts</Strong> 
+        <ul>
+            <li>Eminem is left handed</li>
+            <li>He wanted to be a comic book artist when he was young</li>
+            <li>Cuts his own hair</li>
+            <li>Quit school in 9th grade.</li>
+        </ul>
 </body>
 </html>

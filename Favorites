@@ -11,6 +11,23 @@
     <!-- Latest compiled and minified JavaScript -->
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
     <link href="https://fonts.googleapis.com/css?family=dosis" rel="stylesheet">
+    <style>
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #E0DE4A;
+}
+</style>
 </head>
 <body>
     <ul>
@@ -18,21 +35,50 @@
         <li><a class="active"   href="#news">Childhood</a></li>
         <li><a href="#contact">Favorites</a></li>
     </ul>    
-    <h1>Eminem</h1>
-    <Strong>Eminem's Favorites</Strong>
-        <ul>
-            <li>Hobbies and interests: Writing, Rapping, Listening to music, football, and watching movies</li>
-            <li>Favorite Color: Light Blue</li>
-            <li>Favorite Food: Fast Food (Taco Bell and Wendy's)</li>
-            <li>Favorite Books: Comic Books</li>
-            <li>Favorite Music: Hip Hop</li>
-            <li>Favorite Rappers: Tupac Shakur, Jay-z, Dr. Dre</li>
-            <li>Favorite Movie: Scarface (1983)</li>
-            <li>Favorite Sports: Basketball, Football</li>
-            <li>Favorite Basketball Team: Detroit Pistons</li>
-            <li>Favorite Football Team: Pittsburgh Steelers</li>
-        </ul>
-        <Strong>Facts</Strong> 
+    <h1>Eminem</h1>  
+<table>
+  <tr>
+    <th>Eminem's Favorite:</th>
+    <th>Eminem's answer</th>
+  </tr>
+  <tr>
+    <td>color</td>
+    <td>light blue</td>
+  </tr>
+  <tr>
+    <td>sport</td>
+    <td>basketball and football</td>
+  </tr>
+  <tr>
+    <td>movie</td>
+    <td>Scarface (1983)</td>
+  </tr>
+  <tr>
+    <td>rappers</td>
+    <td>Tupac Shakur, Jay-z, Dr. Dre</td>
+  </tr>
+  <tr>
+    <td>hobbies and interests</td>
+    <td>Writing, Rapping, Listening to music, football, and watching movies</td>
+  </tr>
+  <tr>
+    <td>food</td>
+    <td>fast food</td>
+  </tr>
+  <tr>
+    <td>books</td>
+    <td>comic books</td>
+    </tr>
+  <tr>
+    <td>basketball team</td>
+    <td>Detroit Pistons</td>
+    </tr>
+  <tr>
+    <td>football team</td>
+    <td>Pittsburgh Steelers</td>
+    </tr>
+</table>
+    <Strong>Facts</Strong> 
         <ul>
             <li>Eminem is left handed</li>
             <li>He wanted to be a comic book artist when he was young</li>

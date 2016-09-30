@@ -1,89 +1,80 @@
 <!DOCTYPE html>
 <html> 
-<head>
-    <link rel="stylesheet" type="text/css" href="main.css">
-    <!-- Latest compiled and minified CSS -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+    <head>
+        <link rel="stylesheet" type="text/css" href="main.css">
+        <!-- Latest compiled and minified CSS -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
 
-    <!-- Optional theme -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
+        <!-- Optional theme -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
 
-    <!-- Latest compiled and minified JavaScript -->
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
-    <link href="https://fonts.googleapis.com/css?family=dosis" rel="stylesheet">
-    <style>
-table {
-    font-family: arial, sans-serif;
-    border-collapse: collapse;
-    width: 100%;
-}
-
-td, th {
-    border: 1px solid #dddddd;
-    text-align: left;
-    padding: 8px;
-}
-
-tr:nth-child(even) {
-    background-color: #E0DE4A;
-}
-</style>
-</head>
+        <!-- Latest compiled and minified JavaScript -->
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+        <link href="https://fonts.googleapis.com/css?family=dosis" rel="stylesheet">
+    </head>
 <body>
-    <ul>
-        <li><a href="#home">Home</a></li>
-        <li><a class="active"   href="#news">Childhood</a></li>
-        <li><a href="#contact">Favorites</a></li>
-    </ul>    
-    <h1>Eminem</h1>  
-<table>
-  <tr>
-    <th>Eminem's Favorite:</th>
-    <th>Eminem's answer</th>
-  </tr>
-  <tr>
-    <td>color</td>
-    <td>light blue</td>
-  </tr>
-  <tr>
-    <td>sport</td>
-    <td>basketball and football</td>
-  </tr>
-  <tr>
-    <td>movie</td>
-    <td>Scarface (1983)</td>
-  </tr>
-  <tr>
-    <td>rappers</td>
-    <td>Tupac Shakur, Jay-z, Dr. Dre</td>
-  </tr>
-  <tr>
-    <td>hobbies and interests</td>
-    <td>Writing, Rapping, Listening to music, football, and watching movies</td>
-  </tr>
-  <tr>
-    <td>food</td>
-    <td>fast food</td>
-  </tr>
-  <tr>
-    <td>books</td>
-    <td>comic books</td>
-    </tr>
-  <tr>
-    <td>basketball team</td>
-    <td>Detroit Pistons</td>
-    </tr>
-  <tr>
-    <td>football team</td>
-    <td>Pittsburgh Steelers</td>
-    </tr>
-</table>
-    <Strong>Facts</Strong> 
+    <div class="picture">
         <ul>
-            <li>Eminem is left handed</li>
-            <li>He wanted to be a comic book artist when he was young</li>
-            <li>Cuts his own hair</li>
-            <li>Quit school in 9th grade.</li>
-        </ul>
+            <li><a href="/Users/damian.chavez/Documents/index.html">Home</a></li>
+            <li><a class="active"   href="#/Users/damian.chavez/Documents/childhood.html">Childhood</a></li>
+            <li><a href="#/Users/damian.chavez/Documents/favorites.html">Favorites</a></li>
+        </ul>    
+        <h1>Eminem</h1>  
+        <div class="col-md-6">
+            <table style="width:100%">
+                <tr>
+                    <th>Eminem's Favorite:</th>
+                    <th>Eminem's answer</th>
+                </tr>
+                <tr>
+                    <td>color</td>
+                    <td>light blue</td>
+                </tr>
+                <tr>
+                    <td>sport</td>
+                    <td>basketball and football</td>
+                </tr>
+                <tr>
+                    <td>movie</td>
+                    <td>Scarface (1983)</td>
+                </tr>
+                <tr>
+                    <td>rappers</td>
+                    <td>Tupac Shakur, Jay-z, Dr.   Dre</td>
+                </tr>
+                <tr>
+                    <td>hobbies and    interests</td>
+                    <td>Writing, Rapping, Listening to music, football, and watching movies</td>
+                </tr>
+                <tr>
+                    <td>food</td>
+                    <td>fast food</td>
+                </tr>
+                <tr>
+                    <td>books</td>
+                    <td>comic books</td>
+                </tr>
+                <tr>
+                    <td>basketball team</td>
+                    <td>Detroit Pistons</td>
+                </tr>
+                <tr>
+                    <td>football team</td>
+                    <td>Pittsburgh Steelers</td>
+                </tr>
+            </table>
+        </div>    
+        <div class="col-md-6">
+            <div class="facts">
+                <Strong>Facts</Strong> 
+                <ol>
+                    <li>Eminem is left handed</li>
+                    <li>He wanted to be a comic book artist when he was young</li>
+                    <li>Cuts his own hair</li>
+                    <li>Quit school in 9th grade.</li>
+                </ol>
+            </div>    
+        </div>
+    </div>    
 </body>
 </html>

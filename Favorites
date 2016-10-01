@@ -21,7 +21,7 @@
         </ul>    
         <h1>Eminem</h1>  
         <div class="col-md-6">
-            <table style="width:100%">
+            <table>
                 <tr>
                     <th>Eminem's Favorite:</th>
                     <th>Eminem's answer</th>
@@ -66,12 +66,15 @@
         </div>    
         <div class="col-md-6">
             <div class="facts">
-                <Strong>Facts</Strong> 
+                <Strong><u>Facts</u></Strong> 
                 <ol>
-                    <li>Eminem is left handed</li>
-                    <li>He wanted to be a comic book artist when he was young</li>
-                    <li>Cuts his own hair</li>
+                    <li>Eminem is left handed.</li>
+                    <li>He wanted to be a comic book artist when he was young.</li>
+                    <li>Cuts his own hair.</li>
                     <li>Quit school in 9th grade.</li>
+                    <li>Had the opportunity to have his song be part of a call of duty game.</li>
+                    <li>Grew up with no father.</li>
+                    <li>Used to attend rap battles where he was known as rabbit.</li>
                 </ol>
             </div>    
         </div>

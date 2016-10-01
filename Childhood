@@ -15,9 +15,9 @@
 <body>
     <div class="picture">
     <ul>
-        <li><a href="#home">Home</a></li>
-        <li><a class="active"href="#news">Childhood</a></li>
-        <li><a href="#contact">Favorites</a></li>
+        <li><a href="/Users/damian.chavez/Documents/index.html">Home</a></li>
+        <li><a class="active"href="/Users/asus/Documents/childhood.html">Childhood</a></li>
+        <li><a href="#/Users/damian.chavez/Documents/favorites.html">Favorites</a></li>
     </ul>    
     <h1>Eminem</h1>
         <div class="container">

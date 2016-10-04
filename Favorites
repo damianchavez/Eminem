@@ -13,11 +13,10 @@
         <link href="https://fonts.googleapis.com/css?family=dosis" rel="stylesheet">
     </head>
 <body>
-    <div class="picture">
         <ul>
             <li><a href="/Users/damian.chavez/Documents/index.html">Home</a></li>
-            <li><a class="active"   href="#/Users/damian.chavez/Documents/childhood.html">Childhood</a></li>
-            <li><a href="#/Users/damian.chavez/Documents/favorites.html">Favorites</a></li>
+            <li><a class   href="#/Users/damian.chavez/Documents/childhood.html">Childhood</a></li>
+            <li><a class="active" href="#/Users/damian.chavez/Documents/favorites.html">Favorites</a></li>
         </ul>    
         <h1>Eminem</h1>  
         <div class="col-md-6">
@@ -76,8 +75,26 @@
                     <li>Grew up with no father.</li>
                     <li>Used to attend rap battles where he was known as rabbit.</li>
                 </ol>
-            </div>    
+            </div>
         </div>
-    </div>    
+        <div class="col-md-11">        
+            <div class="songs">
+                <Strong><u>List of my Favorite Songs</u></Strong>        
+                    <ol>
+                        <li>Stan</li>
+                        <li>Forever</li>
+                        <li>Like Toy Soldiers</li>
+                        <li>Drop the world</li>
+                        <li>Superman</li>
+                        <li>Sing for the moment</li>
+                        <li>When I'm Gone</li>
+                        <li>Mockingbird</li>
+                        <li>Crack A Bottle</li>
+                        <li>Cleanin' Out My Closet</li>
+                        <li>Not Afraid</li>
+                        <li>Cinderella Man</li>
+                    </ol>    
+            </div>
+        </div>    
 </body>
 </html>

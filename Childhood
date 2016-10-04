@@ -13,7 +13,6 @@
         <link href="https://fonts.googleapis.com/css?family=dosis" rel="stylesheet">
 </head>
 <body>
-    <div class="picture">
     <ul>
         <li><a href="/Users/damian.chavez/Documents/index.html">Home</a></li>
         <li><a class="active"href="/Users/asus/Documents/childhood.html">Childhood</a></li>
@@ -51,6 +50,10 @@
             </div>
         </div>
     </div>
-    </div>    
+     <div class="col-md-2">
+            <div class="facts">    
+                <h6>footer</h6>
+            </div>
+    </div>     
 </body>
 </html>

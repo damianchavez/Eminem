@@ -15,54 +15,58 @@
 <body>
         <ul>
             <li><a href="/Users/damian.chavez/Documents/index.html">Home</a></li>
-            <li><a class   href="#/Users/damian.chavez/Documents/childhood.html">Childhood</a></li>
-            <li><a class="active" href="#/Users/damian.chavez/Documents/favorites.html">Favorites</a></li>
+            <li><a class   href="/Users/damian.chavez/Documents/childhood.html">Childhood</a></li>
+            <li><a class="active" href="/Users/damian.chavez/Documents/favorites.html">Favorites</a></li>
         </ul>    
-        <h1>Eminem</h1>  
-        <div class="col-md-6">
-            <table>
-                <tr>
-                    <th>Eminem's Favorite:</th>
-                    <th>Eminem's answer</th>
-                </tr>
-                <tr>
-                    <td>color</td>
-                    <td>light blue</td>
-                </tr>
-                <tr>
-                    <td>sport</td>
-                    <td>basketball and football</td>
-                </tr>
-                <tr>
-                    <td>movie</td>
-                    <td>Scarface (1983)</td>
-                </tr>
-                <tr>
-                    <td>rappers</td>
-                    <td>Tupac Shakur, Jay-z, Dr.   Dre</td>
-                </tr>
-                <tr>
-                    <td>hobbies and    interests</td>
-                    <td>Writing, Rapping, Listening to music, football, and watching movies</td>
-                </tr>
-                <tr>
-                    <td>food</td>
-                    <td>fast food</td>
-                </tr>
-                <tr>
-                    <td>books</td>
-                    <td>comic books</td>
-                </tr>
-                <tr>
-                    <td>basketball team</td>
-                    <td>Detroit Pistons</td>
-                </tr>
-                <tr>
-                    <td>football team</td>
-                    <td>Pittsburgh Steelers</td>
-                </tr>
-            </table>
+        <div class="banner">
+            <h1>Eminem</h1>
         </div>    
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <table>
+                    <tr>
+                        <th>Eminem's Favorite:</th>
+                        <th>Eminem's answer</th>
+                    </tr>
+                    <tr>
+                        <td>color</td>
+                        <td>light blue</td>
+                    </tr>
+                    <tr>
+                        <td>sport</td>
+                        <td>basketball and football</td>
+                    </tr>
+                    <tr>
+                        <td>movie</td>
+                        <td>Scarface (1983)</td>
+                    </tr>
+                    <tr>
+                        <td>rappers</td>
+                        <td>Tupac Shakur, Jay-z, Dr.   Dre</td>
+                    </tr>
+                    <tr>
+                        <td>hobbies and    interests</td>
+                        <td>Writing, Rapping, Listening to music, football, and watching movies</td>
+                    </tr>
+                    <tr>
+                        <td>food</td>
+                        <td>fast food</td>
+                    </tr>
+                    <tr>
+                        <td>books</td>
+                        <td>comic books</td>
+                    </tr>
+                    <tr>
+                        <td>basketball team</td>
+                        <td>Detroit Pistons</td>
+                    </tr>
+                    <tr>
+                        <td>football team</td>
+                        <td>Pittsburgh  Steelers</td>
+                    </tr>
+                </table>
+            </div>    
         <div class="col-md-6">
             <div class="facts">
                 <Strong><u>Facts</u></Strong> 
@@ -77,10 +81,13 @@
                 </ol>
             </div>
         </div>
-        <div class="col-md-11">        
-            <div class="songs">
-                <Strong><u>List of my Favorite Songs</u></Strong>        
-                    <ol>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">        
+                <div class="songs">
+                    <Strong><u>List of my Favorite Songs</u></Strong>  <ol>
                         <li>Stan</li>
                         <li>Forever</li>
                         <li>Like Toy Soldiers</li>
@@ -94,10 +101,12 @@
                         <li>Not Afraid</li>
                         <li>Cinderella Man</li>
                     </ol>    
+                </div>
             </div>
         </div>
+        </div>
         <div class="col-md-2">
-            <div class="facts">    
+            <div class="footer">    
                 <h6>footer</h6>
             </div>    
         </div>

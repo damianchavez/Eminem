@@ -13,49 +13,40 @@ ul {
 }
 li a {
     display: block;
-    color: #ffffff;
+    color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
     float: left;
 }
-
 a:hover:not(.active) {
     background-color: #111;
 }
-
 .active {
 background-color:#ffff00;
 }
 .banner {
     text-align: center;
-    background-color: #33FFEC;
+    color:  #005ce6;
+    background-color: #ffff00;
     border: 10px solid #333;
-    padding: 5px;
-    color: #111;
 }
 p {
-    background-color: #919494;
-    margin: 10px;
-    padding: 10px;
     font-family: 'Dosis', sans-serif;
-    border: 10px solid #333;
+    padding-top: 10px;
 }
 .images {
-    border: 10px solid #333;
-    margin: 10px;
-    padding-left: 10px;
-    background-color: #919494;
+    margin-left: 100px;
+    margin-top: 20px;
+    margin-bottom: 10px;
 }
-table {    
-     font-family: arial, sans-serif;
-     width: 100%;
-     border: 10px solid #333;
+table {
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 td, th {
      border: 1px solid #dddddd;
      text-align: left;
-     padding: 10px;
 }
 tr:nth-child(even) {
      background-color: #E0DE4A;
@@ -63,23 +54,15 @@ tr:nth-child(even) {
 tr:nth-child(odd) {
     background-color: #919494;
 }
-.facts {
+.container {   
     border: 10px solid #333;
     background-color: #919494;
-    padding: 20px;
+    padding-right: 20px;
+    margin: 10px;
 }
-.songs {
-    border: 10px solid #333;
-    background-color: #919494;
-    padding-left: 30px;
-    padding-bottom: 10px;
-    padding-top: 10px;   
-    margin-left: 500px;
+.images2 {
+    margin-bottom: 10px;
+}
+.images3 {
     margin-top: 10px;
-    margin-right: 400px;
-}
-.footer {
-    border: 10px solid #333;
-    background-color: #919494;
-    padding: 20px;
 }

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html> 
 <head>
-    <link rel="stylesheet" type="text/css" href="main.css">
+    <link rel="stylesheet" type="text/css" href="style.css">
     <!-- Latest compiled and minified CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
 
@@ -15,7 +15,7 @@
 </head>
 <body>
     <ul>
-        <li><a href="/Users/damian.chavez/Documents/index.html">Home</a></li>
+        <li><a href="/Users/damian.chavez/Documents/Main Page.html">Home</a></li>
         <li><a class   href="/Users/damian.chavez/Documents/childhood.html">Childhood</a></li>
         <li><a class="active" href="/Users/damian.chavez/Documents/favorites.html">Favorites</a></li>
     </ul>    
